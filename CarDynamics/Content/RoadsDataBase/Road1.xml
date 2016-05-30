@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+	<Asset Type="System.Collections.Generic.List[Microsoft.Xna.Framework.Vector3]">
+		-100 0 -80
+		-50 0 -80
+		-40 0 -50
+
+		40 0 -50
+		50 0 -80
+		100 0 -80
+
+		100 0 80
+		50 0 80
+		40 0 50
+
+		-40 0 50
+		-50 0 80
+		-100 0 80
+	</Asset>
+</XnaContent>

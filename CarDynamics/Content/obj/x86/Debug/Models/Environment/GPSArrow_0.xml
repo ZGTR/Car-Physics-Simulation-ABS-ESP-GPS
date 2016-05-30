@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:NodeContent">
+    <Name>Arrow</Name>
+    <Identity>
+      <SourceFilename>C:\Users\ZGTR\Desktop\Final CarDynamics Project\CarDynamics  Feb 9th-2011 Release\CarDynamics\Content\Models\Environment\GPSArrow.FBX</SourceFilename>
+      <SourceTool>FbxImporter</SourceTool>
+    </Identity>
+    <OpaqueData>
+      <Data Key="MaxHandle" Type="int">31</Data>
+    </OpaqueData>
+    <Transform>2.54 0 0 0 0 7.195183E-16 -2.54 0 0 2.54 7.195183E-16 0 -0.0125573734 -3.93394113 -5.693945 1</Transform>
+    <Children>
+      <Child Type="Graphics:MeshContent">
+        <Name>Box01</Name>
+        <OpaqueData>
+          <Data Key="MaxHandle" Type="int">30</Data>
+        </OpaqueData>
+        <Transform>0.99999994 0 0 0 0 1.58903384 1.951763E-23 0 0 -1.1659522E-23 1 0 -0.242412552 -18.0372849 -3.96301484 1</Transform>
+        <Positions>-10.9353485 -26.4855537 0 10.9353485 -26.4855537 0 -10.9353485 26.4855537 0 10.9353485 26.4855537 0 -10.9353485 -26.4855537 8.003145 10.9353485 -26.4855537 8.003145 -10.9353485 26.4855537 8.003145 10.9353485 26.4855537 8.003145</Positions>
+        <Geometry>
+          <Batch>
+            <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 14 13 12 12 15 14 18 17 16 16 19 18 22 21 20 20 23 22</Indices>
+            <Vertices>
+              <PositionIndices>0 2 3 1 4 5 7 6 0 1 5 4 1 3 7 5 3 2 6 7 2 0 4 6</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 1 0 0 1 0 0 1 0 0 1 0 -1 0 0 -1 0 0 -1 0 0 -1 0 1 0 0 1 0 0 1 0 0 1 0 0 0 1 0 0 1 0 0 1 0 0 1 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">1 1 1 0 0 0 0 1 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+      <Child Type="Graphics:MeshContent">
+        <Name>Pyramid01</Name>
+        <OpaqueData>
+          <Data Key="MaxHandle" Type="int">28</Data>
+        </OpaqueData>
+        <Transform>1.43987775 0 0 0 0 -8.370947E-08 -0.5138051 0 0 1.41459918 -2.30467464E-07 0 4.456398E-10 23.51861 -1.69455731E-07 1</Transform>
+        <Positions>0 0 25.876667 -18.0737934 -8.354021 0 18.0737934 -8.354021 0 18.0737934 8.354021 0 -18.0737934 8.354021 0 0 0 0</Positions>
+        <Geometry>
+          <Batch>
+            <Indices>2 1 0 5 4 3 8 7 6 11 10 9 14 13 12 15 13 14 16 13 15 12 13 16</Indices>
+            <Vertices>
+              <PositionIndices>0 1 2 0 2 3 0 3 4 0 4 1 1 5 2 3 4</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 -0.9516365 0.307226241 0 -0.951636553 0.307226241 0 -0.951636553 0.307226241 0.819825 0 0.5726142 0.819825 0 0.572614253 0.819825 0 0.572614253 0 0.9516365 0.307226241 0 0.951636553 0.307226241 0 0.951636553 0.307226241 -0.819825 0 0.5726142 -0.819825 0 0.572614253 -0.819825 0 0.572614253 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.5 0 0 1 1 1 0.5 0 -0.581742167 1 0.418257833 1 0.5 0 0 1 1 1 0.5 0 -0.581742167 1 0.418257833 1 0 0 0.5 0.5 1 0 1 1 0 1</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+    </Children>
+  </Asset>
+</XnaContent>

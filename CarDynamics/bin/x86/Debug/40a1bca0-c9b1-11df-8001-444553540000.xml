@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GamePadConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <rotateLeftThumbStick>false</rotateLeftThumbStick>
+  <rotateRightThumbStick>true</rotateRightThumbStick>
+  <invertLeftThumbStick>true</invertLeftThumbStick>
+  <invertRightThumbStick>true</invertRightThumbStick>
+  <sensitivityLeftThumbStick>0</sensitivityLeftThumbStick>
+  <sensitivityRightThumbStick>0</sensitivityRightThumbStick>
+  <pointOfView>0</pointOfView>
+  <bStart>11</bStart>
+  <bBack>10</bBack>
+  <bX>0</bX>
+  <bY>1</bY>
+  <bA>2</bA>
+  <bB>3</bB>
+  <bShoulderLeft>4</bShoulderLeft>
+  <bShoulderRight>5</bShoulderRight>
+  <bTriggerLeft>6</bTriggerLeft>
+  <bTriggerRight>7</bTriggerRight>
+</GamePadConfig>

@@ -1,0 +1,384 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\back.bmp</Source>
+      <Name>Images\back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZGTR\Desktop\Final CarDynamics Project\CarDynamics  Feb 9th-2011 Release\CarDynamics\bin\x86\Debug\Content\Images\back.xnb</Output>
+      <Time>2010-12-24T12:28:54+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\front.bmp</Source>
+      <Name>Images\front</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZGTR\Desktop\Final CarDynamics Project\CarDynamics  Feb 9th-2011 Release\CarDynamics\bin\x86\Debug\Content\Images\front.xnb</Output>
+      <Time>2010-12-24T12:28:54+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\grass.jpg</Source>
+      <Name>Images\grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZGTR\Desktop\Final CarDynamics Project\CarDynamics  Feb 9th-2011 Release\CarDynamics\bin\x86\Debug\Content\Images\grass.xnb</Output>
+      <Time>2010-12-24T12:28:54+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\ground2.bmp</Source>
+      <Name>Images\ground2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZGTR\Desktop\Final CarDynamics Project\CarDynamics  Feb 9th-2011 Release\CarDynamics\bin\x86\Debug\Content\Images\ground2.xnb</Output>
+      <Time>2010-12-24T12:28:54+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\left.bmp</Source>
+      <Name>Images\left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZGTR\Desktop\Final CarDynamics Project\CarDynamics  Feb 9th-2011 Release\CarDynamics\bin\x86\Debug\Content\Images\left.xnb</Output>
+      <Time>2010-12-24T12:28:54+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\right.bmp</Source>
+      <Name>Images\right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZGTR\Desktop\Final CarDynamics Project\CarDynamics  Feb 9th-2011 Release\CarDynamics\bin\x86\Debug\Content\Images\right.xnb</Output>
+      <Time>2010-12-24T12:28:54+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\road.jpg</Source>
+      <Name>Images\road</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZGTR\Desktop\Final CarDynamics Project\CarDynamics  Feb 9th-2011 Release\CarDynamics\bin\x86\Debug\Content\Images\road.xnb</Output>
+      <Time>2010-12-24T12:28:54+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\sky.bmp</Source>
+      <Name>Images\sky</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZGTR\Desktop\Final CarDynamics Project\CarDynamics  Feb 9th-2011 Release\CarDynamics\bin\x86\Debug\Content\Images\sky.xnb</Output>
+      <Time>2010-12-24T12:28:54+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\ingame.png</Source>
+      <Name>Images\ingame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZGTR\Desktop\Final CarDynamics Project\CarDynamics  Feb 9th-2011 Release\CarDynamics\bin\x86\Debug\Content\Images\ingame.xnb</Output>
+      <Time>2008-10-27T14:45:24+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\heightMap.bmp</Source>
+      <Name>Images\heightMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZGTR\Desktop\Final CarDynamics Project\CarDynamics  Feb 9th-2011 Release\CarDynamics\bin\x86\Debug\Content\Images\heightMap.xnb</Output>
+      <Time>2011-02-09T11:15:10.016707+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Arrow.png</Source>
+      <Name>Images\Arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZGTR\Desktop\Final CarDynamics Project\CarDynamics  Feb 9th-2011 Release\CarDynamics\bin\x86\Debug\Content\Images\Arrow.xnb</Output>
+      <Time>2010-12-18T17:10:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\cross.png</Source>
+      <Name>Images\cross</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZGTR\Desktop\Final CarDynamics Project\CarDynamics  Feb 9th-2011 Release\CarDynamics\bin\x86\Debug\Content\Images\cross.xnb</Output>
+      <Time>2011-02-09T16:31:25.1487998+03:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\blue_skitter__plasma_car_wheels_for_your_skitter_or_plasma_car_25__9ys5.jpg</Source>
+      <Name>GUI\blue_skitter__plasma_car_wheels_for_your_skitter_or_plasma_car_25__9ys5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZGTR\Desktop\Final CarDynamics Project\CarDynamics  Feb 9th-2011 Release\CarDynamics\bin\x86\Debug\Content\GUI\blue_skitter__plasma_car_wheels_for_your_skitter_or_plasma_car_25__9ys5.xnb</Output>
+      <Time>2011-02-09T16:32:11.7114631+03:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\texButton.png</Source>
+      <Name>GUI\texButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZGTR\Desktop\Final CarDynamics Project\CarDynamics  Feb 9th-2011 Release\CarDynamics\bin\x86\Debug\Content\GUI\texButton.xnb</Output>
+      <Time>2011-02-09T16:32:11.7134632+03:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\texButton1.png</Source>
+      <Name>GUI\texButton1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZGTR\Desktop\Final CarDynamics Project\CarDynamics  Feb 9th-2011 Release\CarDynamics\bin\x86\Debug\Content\GUI\texButton1.xnb</Output>
+      <Time>2011-02-09T16:32:11.7144632+03:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\texCheckBox.png</Source>
+      <Name>GUI\texCheckBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZGTR\Desktop\Final CarDynamics Project\CarDynamics  Feb 9th-2011 Release\CarDynamics\bin\x86\Debug\Content\GUI\texCheckBox.xnb</Output>
+      <Time>2011-02-09T16:32:11.7154633+03:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\texCircleButton.png</Source>
+      <Name>GUI\texCircleButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZGTR\Desktop\Final CarDynamics Project\CarDynamics  Feb 9th-2011 Release\CarDynamics\bin\x86\Debug\Content\GUI\texCircleButton.xnb</Output>
+      <Time>2011-02-09T16:32:11.7174634+03:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\texDomainLeft.png</Source>
+      <Name>GUI\texDomainLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZGTR\Desktop\Final CarDynamics Project\CarDynamics  Feb 9th-2011 Release\CarDynamics\bin\x86\Debug\Content\GUI\texDomainLeft.xnb</Output>
+      <Time>2011-02-09T16:32:11.7184635+03:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\texDomainLeftRight.png</Source>
+      <Name>GUI\texDomainLeftRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZGTR\Desktop\Final CarDynamics Project\CarDynamics  Feb 9th-2011 Release\CarDynamics\bin\x86\Debug\Content\GUI\texDomainLeftRight.xnb</Output>
+      <Time>2011-02-09T16:32:11.7204636+03:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\texDomainRight.png</Source>
+      <Name>GUI\texDomainRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZGTR\Desktop\Final CarDynamics Project\CarDynamics  Feb 9th-2011 Release\CarDynamics\bin\x86\Debug\Content\GUI\texDomainRight.xnb</Output>
+      <Time>2011-02-09T16:32:11.7214636+03:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\texForm.jpg</Source>
+      <Name>GUI\texForm</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZGTR\Desktop\Final CarDynamics Project\CarDynamics  Feb 9th-2011 Release\CarDynamics\bin\x86\Debug\Content\GUI\texForm.xnb</Output>
+      <Time>2011-02-09T16:32:11.7394647+03:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\texForm1.png</Source>
+      <Name>GUI\texForm1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZGTR\Desktop\Final CarDynamics Project\CarDynamics  Feb 9th-2011 Release\CarDynamics\bin\x86\Debug\Content\GUI\texForm1.xnb</Output>
+      <Time>2011-02-09T16:32:11.7414648+03:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\texRadioButton.jpg</Source>
+      <Name>GUI\texRadioButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZGTR\Desktop\Final CarDynamics Project\CarDynamics  Feb 9th-2011 Release\CarDynamics\bin\x86\Debug\Content\GUI\texRadioButton.xnb</Output>
+      <Time>2011-02-09T16:32:11.7434649+03:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\texTextBox.png</Source>
+      <Name>GUI\texTextBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZGTR\Desktop\Final CarDynamics Project\CarDynamics  Feb 9th-2011 Release\CarDynamics\bin\x86\Debug\Content\GUI\texTextBox.xnb</Output>
+      <Time>2011-02-09T16:32:11.745465+03:00</Time>
+    </Item>
+    <Item>
+      <Source>MyFont.spritefont</Source>
+      <Name>MyFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZGTR\Desktop\Final CarDynamics Project\CarDynamics  Feb 9th-2011 Release\CarDynamics\bin\x86\Debug\Content\MyFont.xnb</Output>
+      <Time>2010-12-02T13:30:40+03:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\Arial.spritefont</Source>
+      <Name>GUI\Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZGTR\Desktop\Final CarDynamics Project\CarDynamics  Feb 9th-2011 Release\CarDynamics\bin\x86\Debug\Content\GUI\Arial.xnb</Output>
+      <Time>2011-02-09T16:32:11.6654604+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\CarModel\MyBMWBody1.FBX</Source>
+      <Name>Models\CarModel\MyBMWBody1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZGTR\Desktop\Final CarDynamics Project\CarDynamics  Feb 9th-2011 Release\CarDynamics\bin\x86\Debug\Content\Models\CarModel\MyBMWBody1.xnb</Output>
+      <Time>2010-12-29T15:33:54+03:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\CarModel\MyBMWBody1_0.xml</Key>
+        <Value>2011-02-14T07:38:14.0472306+03:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Environment\Building1.FBX</Source>
+      <Name>Models\Environment\Building1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZGTR\Desktop\Final CarDynamics Project\CarDynamics  Feb 9th-2011 Release\CarDynamics\bin\x86\Debug\Content\Models\Environment\Building1.xnb</Output>
+      <Time>2011-01-19T05:32:44+03:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Environment\Building1_0.xml</Key>
+        <Value>2011-02-14T07:38:19.7475567+03:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Environment\GPSArrow.FBX</Source>
+      <Name>Models\Environment\GPSArrow</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZGTR\Desktop\Final CarDynamics Project\CarDynamics  Feb 9th-2011 Release\CarDynamics\bin\x86\Debug\Content\Models\Environment\GPSArrow.xnb</Output>
+      <Time>2011-01-21T21:21:10+03:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Environment\GPSArrow_0.xml</Key>
+        <Value>2011-02-14T07:38:21.0076287+03:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Shaders\terrainEffect.fx</Source>
+      <Name>Shaders\terrainEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZGTR\Desktop\Final CarDynamics Project\CarDynamics  Feb 9th-2011 Release\CarDynamics\bin\x86\Debug\Content\Shaders\terrainEffect.xnb</Output>
+      <Time>2011-01-18T23:02:42+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\Texture.fx</Source>
+      <Name>Shaders\Texture</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZGTR\Desktop\Final CarDynamics Project\CarDynamics  Feb 9th-2011 Release\CarDynamics\bin\x86\Debug\Content\Shaders\Texture.xnb</Output>
+      <Time>2011-01-18T23:02:42+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\PositionColor.fx</Source>
+      <Name>Shaders\PositionColor</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZGTR\Desktop\Final CarDynamics Project\CarDynamics  Feb 9th-2011 Release\CarDynamics\bin\x86\Debug\Content\Shaders\PositionColor.xnb</Output>
+      <Time>2011-01-18T23:02:42+03:00</Time>
+    </Item>
+    <Item>
+      <Source>RoadsDataBase\Road1.xml</Source>
+      <Name>RoadsDataBase\Road1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZGTR\Desktop\Final CarDynamics Project\CarDynamics  Feb 9th-2011 Release\CarDynamics\bin\x86\Debug\Content\RoadsDataBase\Road1.xnb</Output>
+      <Time>2011-02-09T18:29:07.776759+03:00</Time>
+    </Item>
+    <Item>
+      <Source>RoadsDataBase\Road2.xml</Source>
+      <Name>RoadsDataBase\Road2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZGTR\Desktop\Final CarDynamics Project\CarDynamics  Feb 9th-2011 Release\CarDynamics\bin\x86\Debug\Content\RoadsDataBase\Road2.xnb</Output>
+      <Time>2011-02-09T18:29:07.7717588+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\CarModel\MyBMWBody1.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\CarModel\MyBMWBody1_0.xml</Output>
+      <Time>2010-12-29T15:33:54+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Environment\Building1.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Environment\Building1_0.xml</Output>
+      <Time>2011-01-19T05:32:44+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Environment\GPSArrow.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Environment\GPSArrow_0.xml</Output>
+      <Time>2011-01-21T21:21:10+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\ZGTR\Desktop\Final CarDynamics Project\CarDynamics  Feb 9th-2011 Release\CarDynamics\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\ZGTR\Desktop\Final CarDynamics Project\CarDynamics  Feb 9th-2011 Release\CarDynamics\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\ZGTR\Desktop\Final CarDynamics Project\CarDynamics  Feb 9th-2011 Release\CarDynamics\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\ZGTR\Desktop\Final CarDynamics Project\CarDynamics  Feb 9th-2011 Release\CarDynamics\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-02-02T19:59:37.0993401+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
